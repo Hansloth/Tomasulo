@@ -1,6 +1,6 @@
 # Tomasulo Algorithm
 
-Implementing Tomasulo Algorithmr with Python
+Implementing Tomasulo Algorithm with Python
 
 ### To run the code:
 
